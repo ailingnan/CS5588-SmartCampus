@@ -3,7 +3,7 @@ CS5588 Group Project
 # A Trust-Aware Multimodal GenAI Digital Twin for UMKC Campus Information & Decision Support
 
 ## Team Name
-**Group 2**
+**HappyGroup**
 
 ## Team Members
 - **Lyza Iamrache** — https://github.com/LyzaIamrache 
