@@ -6,8 +6,8 @@ CS5588 Group Project
 **Group 2**
 
 ## Team Members
-- **Lyza Iamrache** — [GitHub](https://github.com/LyzaIamrache)  
-- **Ailing Nan** — [GitHub](https://github.com/ailingnan) (Primary Contact)  
+- **Lyza Iamrache** — (https://github.com/LyzaIamrache)  
+- **Ailing Nan** — https://github.com/ailingnan (Primary Contact)  
 - **Gia Huynh** — [GitHub](#)  
 
 ---
