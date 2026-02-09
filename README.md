@@ -22,7 +22,7 @@ This project develops a **GenAI-driven multimodal digital twin** that provides e
 ## High-Level GenAI System Architecture
 1. **Data Ingestion & Knowledge Layer**  
    - PDFs (student handbook, parking permits, shuttle schedules, catalogs)  
-   - Campus maps and tables  
+   - Campus maps  
    - OCR + chunking + metadata + provenance tracking  
 
 2. **Retrieval & Grounded Generation (RAG)**  
