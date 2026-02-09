@@ -6,9 +6,12 @@ CS5588 Group Project
 **Group 2**
 
 ## Team Members
-- **Lyza Iamrache** — (https://github.com/LyzaIamrache)  
+- **Lyza Iamrache** — https://github.com/LyzaIamrache 
 - **Ailing Nan** — https://github.com/ailingnan (Primary Contact)  
-- **Gia Huynh** — [GitHub](#)  
+- **Gia Huynh** — https://github.com/JimHuynh25
+
+## Group Repository
+Github: https://github.com/ailingnan/CS5588-SmartCampus
 
 ---
 
